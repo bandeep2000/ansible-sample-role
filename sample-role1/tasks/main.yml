@@ -1,0 +1,6 @@
+---
+# tasks file for sample-role1
+
+- name: print variable
+    debug:
+      msg: "hello from role"
